@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/urlrouter
+urlrouter.so
+urlrouter.dylib
+urlrouter.dll
+urlrouter.a
+urlrouter.lib
+urlrouter-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
